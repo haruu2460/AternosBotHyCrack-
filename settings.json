@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "HyCrack BOT",
+    "username": "HyCrack",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "HyCrack.aternos.me",
+    "ip": "hycrack.aternos.me",
     "port": 54791,
-    "version": "",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
@@ -27,13 +27,10 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
-      "repeat": true,
+      "enabled": false,
+      "repeat": false,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
       ]
     },
     "chat-log": true,

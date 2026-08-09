@@ -3,13 +3,13 @@
   "bot-account": {
     "username": "HyCrack",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "hycrack.aternos.me",
     "port": 54791,
-    "version": "1.21.1",
-    "try-creative": false
+    "version": "1.21.11",
+    "try-creative": true
   },
   "position": {
     "enabled": true,
